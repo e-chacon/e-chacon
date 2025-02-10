@@ -1,4 +1,5 @@
 #Hi! Welcome to me!
+
 *My name is Ediberto Chacon, I'm a computer engineering student excited about the industry and looking forward to a lifetime of learning*
 *My interests are currently in embedded systems, digital signal processing, and machine learning*
 - 🔭 I’m currently working on my **senior design project**, an **FPGA project**, and a **cool website for compe 561**
